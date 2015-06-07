@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "stehlikc/docker-ci-demo:<TAG>",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "4567"
+    }
+  ]
+}
